@@ -1,0 +1,32 @@
+# 🚫 Archivos y carpetas que Unity genera automáticamente (NO se suben)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# 🚫 Archivos específicos de versiones de Unity
+MemoryCaptures/
+
+# 🚫 Archivos de Visual Studio y Rider (si usas estos editores)
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 🚫 Archivos ocultos del sistema (Windows/macOS)
+.DS_Store
+Thumbs.db
