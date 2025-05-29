@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - TrackingObject
+  - Actors
+  - celestial
+  - Sun
   layers:
   - Default
   - TransparentFX
